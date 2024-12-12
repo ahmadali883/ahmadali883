@@ -5,7 +5,7 @@
 I'm a passionate **Computer Science** student at **FAST National University of Computing and Emerging Sciences (NUCES)**, currently pursuing my Bachelor's degree. My academic journey has been enriched with diverse projects in mobile and web development, machine learning, and AI, allowing me to hone my skills through hands-on experience. I believe in the philosophy of "learning by doing" and continuously strive to build impactful solutions that address real-world problems.
 
 📫 **Reach me at:** [khahmadalikhan@gmail.com](mailto:khahmadalikhan@gmail.com)  
-🌐 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/ahmadali) | [GitHub](https://github.com/ahmadali)
+🌐 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/ahmad-ali-311413252/) | [GitHub](https://github.com/ahmadali883)
 
 ---
 
